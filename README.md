@@ -1,6 +1,6 @@
 # Lottie to SVG
 
-Web application to convert existing Lottie JSON data files to a static SVG. Created for personal use.
+Web application built using [Svelte](https://github.com/sveltejs/svelte) to convert existing Lottie JSON data files to a static SVG. Created for personal use.
 
 ## Development
 
