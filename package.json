@@ -11,6 +11,7 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
+    "lottie-web": "^5.5.9",
     "sirv-cli": "^0.4.4"
   },
   "scripts": {
